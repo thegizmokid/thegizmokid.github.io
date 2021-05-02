@@ -1,7 +1,7 @@
 /*
 	Author: webthemez.com 
 */ 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,400italic,500italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,500,700,400italic,500italic);
  
 /* Global styles
 ================================================== */
@@ -64,14 +64,14 @@ ul,li{
 ================================================== */
 
 body, p{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: normal; 
 	font-size: 16px;
 	line-height: 30px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -259,7 +259,7 @@ h2.title span{
 	font-weight: 300;
 	padding: 30px 20px;
 	font-size: 18px;
-	font-family: 'Roboto', serif;
+	font-family: 'Open Sans', serif;
 	color: #fff;
 	line-height: 30px;
 }
@@ -361,11 +361,11 @@ h2.title span{
 	text-transform: uppercase;
 	margin-bottom: 16px;
 	font-size: 20px;
-	line-height: 24px;
+	line-height: 15px;
 }
 .service-box p{
 	font-size: 16px;
-	line-height: 30px;
+	line-height: 24px;
 }
 
 /*section-skills
@@ -840,6 +840,42 @@ border-radius: 3px;
 margin-bottom: 25px;
 }
 
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-red {
+  background-color: #B22222;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-green {
+  background-color: #35530a;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-blue {
+  background-color: #0a819c;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-orange {
+  background-color: #e9662c;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-pink {
+  background-color: #bf3773;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-violet {
+  background-color: #9351ad;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-grey {
+  background-color: #4b5d67;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-dark {
+  background-color: #594857;
+  color: #fff;
+}
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-maroon {
+  background-color: #800000;
+  color: #fff;
+}
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
 	content: '';
 	display: block;
@@ -856,7 +892,7 @@ margin-bottom: 25px;
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2, .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p {
 	color: #737881;
-	font-family: 'Roboto', sans-serif;    font-weight: normal;    font-size: 16px;    line-height: 30px;
+	font-family: 'Open Sans', sans-serif;    font-weight: normal;    font-size: 16px;    line-height: 30px;
 }
 
 	.timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p + p {
