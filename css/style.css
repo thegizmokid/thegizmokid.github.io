@@ -1,7 +1,7 @@
 /*
 	Author: webthemez.com 
 */ 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,500,700,400italic,500italic);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,500,700,400italic,500italic);
  
 /* Global styles
 ================================================== */
@@ -186,14 +186,14 @@ h2.title{
 	line-height: 72px;
 	color: #fff;
 	font-weight: 600;
-	text-transform: capitalize;
+	text-transform: none;
 }
 h2.title span{
 	font-size: 34px;
 	line-height: 51px;
 	color: #DCF3FF;
 	font-weight: 600;
-	text-transform: capitalize;
+	text-transform: none;
 	/* width: 243px; */
 	display: inline-block;
 	padding: 15px 0;
