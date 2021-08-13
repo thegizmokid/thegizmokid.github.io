@@ -175,7 +175,7 @@ h2.heading-title{
 
 #section-banner{
 	background: url("../images/banner.jpg") ;
-	background-size: contain;
+	background-size: auto;
 }
 .banner-content{
 	padding: 200px 0px 300px 0px;
