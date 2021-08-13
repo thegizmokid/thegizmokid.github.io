@@ -299,7 +299,7 @@ h2.title span{
 
 #section-overview{
 	padding: 75px 0px 80px;
-	background: #f2f2f1;
+	background-color: #f2f2f1;
 }
 .overview-box{}
 .overview-box h3{
@@ -313,9 +313,9 @@ h2.title span{
 #section-skill .btn-default.featured{
 	padding: 15px 36px!important;
 }
-/*#section-profile{
-	background: ;
-}*/
+#section-profile{
+	background-color: #FFFFFF;
+}
 
 .profile-bg {
     background-color: transparent;
