@@ -175,6 +175,7 @@ h2.heading-title{
 
 #section-banner{
 	background: url("../images/banner.jpg") ;
+	  background-repeat: no-repeat;
 	background-size: auto;
 }
 .banner-content{
