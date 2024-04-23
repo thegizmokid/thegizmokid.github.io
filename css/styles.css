@@ -10982,3 +10982,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.icon-container {
+    display: flex;
+}
+
+.icon-container img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px; /* Adjust the spacing between icons */
+}
