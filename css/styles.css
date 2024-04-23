@@ -310,6 +310,18 @@ svg {
   vertical-align: middle;
 }
 
+.software-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px; /* Adjust the gap between logos as needed */
+}
+
+.software-logos img {
+    width: 100px; /* Adjust the width of each logo as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
