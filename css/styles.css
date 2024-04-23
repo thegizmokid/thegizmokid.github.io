@@ -10992,3 +10992,30 @@ section.resume-section .resume-section-content {
     height: auto;
     margin-right: 20px; /* Adjust the spacing between icons */
 }
+
+.projects-table {
+    width: 100%;
+}
+
+.projects-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.projects-table th, .projects-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.projects-table th {
+    background-color: #f2f2f2;
+}
+
+.projects-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.projects-table tbody tr:hover {
+    background-color: #ddd;
+}
