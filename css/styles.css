@@ -11016,10 +11016,6 @@ section.resume-section .resume-section-content {
     background-color: #f2f2f2;
 }
 
-.projects-table tbody tr:hover {
-    background-color: #ddd;
-}
-
 /* Set fixed width for each column */
 .projects-table th:nth-child(1),
 .projects-table td:nth-child(1) {
