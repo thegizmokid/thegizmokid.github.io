@@ -11023,12 +11023,12 @@ section.resume-section .resume-section-content {
 /* Set fixed width for each column */
 .projects-table th:nth-child(1),
 .projects-table td:nth-child(1) {
-    width: 30%; /* Adjust the width as needed */
+    width: 20%; /* Adjust the width as needed */
 }
 
 .projects-table th:nth-child(2),
 .projects-table td:nth-child(2) {
-    width: 20%; /* Adjust the width as needed */
+    width: 30%; /* Adjust the width as needed */
 }
 
 .projects-table th:nth-child(3),
